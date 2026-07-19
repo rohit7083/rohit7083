@@ -129,7 +129,7 @@ Conversational chatbot UI with async API interactions and real-time response ren
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/rohit7083"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="mailto:rohitsonawane889@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-4A1942?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://portfolio2-0-mu-mocha.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4A1942?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=rohit7083&label=Profile%20Views&color=4A1942&style=flat" />
 
